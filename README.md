@@ -7,9 +7,8 @@ Welcome to the Qiskit Fall Fest at Rensselaer Polytechnic Institute! This event 
 - **Event Name**: Qiskit Fall Fest at RPI
 - **Organizers**: Quantum Computing Club at Rensselaer Polytechnic Institute
 - **Hosted By**: IBM
-- **Date**: [Insert Date]
-- **Location**: [Insert Location]
-- **Website**: [Insert Event Website]
+- **Date**: [December 2nd]
+- **Location**: [RPI Union]
 
 ## Overview
 
@@ -64,7 +63,7 @@ To get started with Qiskit, here are some helpful resources:
 If you have any questions or need assistance, feel free to contact the organizers:
 
 - Quantum Computing Club at Rensselaer Polytechnic Institute
-  - Email: [Insert Contact Email]
-  - Twitter: [@QiskitClubRPI](https://twitter.com/QiskitClubRPI)
+  - Email: [rpi.quantum.computing.club@gmail.com]
+  - Instagram: [@QiskitClubRPI]()
 
 We look forward to welcoming you to the Qiskit Fall Fest at RPI for an exciting and educational quantum computing experience!

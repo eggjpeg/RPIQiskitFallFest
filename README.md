@@ -20,25 +20,27 @@ The Qiskit Fall Fest at RPI is a celebration of quantum computing and a unique o
    - Welcome to Qiskit Fall Fest
    - Overview of the event
 
-2. **10:30 am Workshops in Ellsworth Room (RU 3602) or Networking and Making connections in Shelnutt Gallery(RU 3606)**
+2. **10:30 am Workshops in Ellsworth Room (RU 3602) or
+   Networking and Making connections in Shelnutt Gallery(RU 3606)**
+   
    - Intro to Python and Walkthrough Challenge 1 with Michael Papadopoulous
    - Quantum Software engineering and IBM with Ryan Cocuzza
    - Quantum Technology for Nuclear Engineering with Brian McDermott
   
-3. **12:00 pm Lunch in Union Welcome Lobby**
+4. **12:00 pm Lunch in Union Welcome Lobby**
    - Lunch & Coffee
    - Networking and making connections
      
-4. **12:30 pm Hackathon**
+5. **12:30 pm Hackathon**
    - Form teams and work on exciting quantum challenges
    - There will be beginner, intermediate and advanced challenges
    - Mentors available to assist
    - Certificate signed by IBM to all participants
      
-5. **Closing Session**
+6. **3:30 pm Closing Session**
    - Closing Speech by Michael Papadopoulos
    - Swag Handout
-   - 
+     
 ## Resources
 
 To get started with Qiskit, here are some helpful resources:

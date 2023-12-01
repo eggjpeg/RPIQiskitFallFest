@@ -7,49 +7,38 @@ Welcome to the Qiskit Fall Fest at Rensselaer Polytechnic Institute! This event 
 - **Event Name**: Qiskit Fall Fest at RPI
 - **Organizers**: Quantum Computing Club at Rensselaer Polytechnic Institute
 - **Hosted By**: IBM
-- **Date**: [December 2nd]
-- **Location**: [RPI Union]
+- **Date**: [December 2nd at 10:00am]
+- **Location**: [RPI Union Welcome Lobby]
 
 ## Overview
 
-The Qiskit Fall Fest at RPI is a celebration of quantum computing and a unique opportunity to dive into the world of quantum programming using Qiskit, an open-source quantum computing framework developed by IBM. The event will include informative sessions, workshops, and a thrilling hackathon where participants can test their quantum coding skills and collaborate with like-minded enthusiasts.
+The Qiskit Fall Fest at RPI is a celebration of quantum computing and a unique opportunity to dive into the world of quantum programming using Qiskit, an open-source quantum computing framework developed by IBM. The event will include informative sessions, workshops, lunch as well as a hackathon where participants can test their quantum coding skills and collaborate with like-minded enthusiasts.
 
 ## Event Agenda
 
-1. **Opening Session**
-   - Introduction to Quantum Computing
-   - Overview of Qiskit
-   - Keynote Speakers
+1. **10:00 am Opening Session by Michael Papadopoulos**
+   - Welcome to Qiskit Fall Fest
+   - Overview of the event
 
-2. **Workshops**
-   - Deep Dive into Qiskit
-   - Quantum Algorithms
-   - Quantum Hardware and Qiskit Aqua
-
-3. **Hackathon**
-   - Form teams and work on exciting quantum projects
-   - Mentors available to assist with Qiskit development
-   - Prizes for the winning teams
-
-4. **Closing Session**
-   - Hackathon Project Presentations
-   - Award Ceremony
-   - Networking and Socializing
-
-## Participating
-
-If you're interested in joining the Qiskit Fall Fest at RPI, please follow these steps:
-
-1. **Register**: Visit our event website at [Insert Event Website] to register for the event.
-
-2. **Prepare**: Familiarize yourself with Qiskit and quantum computing concepts to make the most out of the event.
-
-3. **Bring Your Laptop**: Make sure to bring your laptop to the event to participate in the hackathon and workshops.
-
-4. **Collaborate**: Don't hesitate to network and collaborate with fellow quantum enthusiasts during the event.
-
-5. **Have Fun**: Most importantly, have fun, learn, and explore the fascinating world of quantum computing.
-
+2. **10:30 am Workshops in Ellsworth Room (RU 3602) or Networking and Making connections in Shelnutt Gallery(RU 3606)**
+   - Intro to Python and Walkthrough Challenge 1 with Michael Papadopoulous
+   - Quantum Software engineering and IBM with Ryan Cocuzza
+   - Quantum Technology for Nuclear Engineering with Brian McDermott
+  
+3. **12:00 pm Lunch in Union Welcome Lobby**
+   - Lunch & Coffee
+   - Networking and making connections
+     
+4. **12:30 pm Hackathon**
+   - Form teams and work on exciting quantum challenges
+   - There will be beginner, intermediate and advanced challenges
+   - Mentors available to assist
+   - Certificate signed by IBM to all participants
+     
+5. **Closing Session**
+   - Closing Speech by Michael Papadopoulos
+   - Swag Handout
+   - 
 ## Resources
 
 To get started with Qiskit, here are some helpful resources:
@@ -64,6 +53,7 @@ If you have any questions or need assistance, feel free to contact the organizer
 
 - Quantum Computing Club at Rensselaer Polytechnic Institute
   - Email: [rpi.quantum.computing.club@gmail.com]
-  - Instagram: [@QiskitClubRPI]()
+  - Instagram: [@QiskitClubRPI]
+  - Discord: [https://discord.gg/VepbkSB4]
 
 We look forward to welcoming you to the Qiskit Fall Fest at RPI for an exciting and educational quantum computing experience!
